@@ -1,1 +1,1 @@
-# testinium_case_study
+# testinium_case_study zip dosyası intellij idea ide'sine import edilebilir
